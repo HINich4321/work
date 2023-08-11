@@ -72,8 +72,8 @@ def run(params={}):
 input = {
       "displayName": "Doe, John",
       "distinguishedName": "CN=Doe\\, John,OU=ServiceNowTest,OU=Users,OU=GS,DC=workplace,DC=corp",
-      "extensionattribute1": [],
-      "lastLogon": 2023-7-12,
+      "extensionattribute1": "Test2 verified by Doe, Jane|DoeJ|3/7/2022",
+      "lastLogon": "2023-07-12 14:44:44",
       "mail": "John.Doe@workplace.com",
       "manager": "CN=Doe\\, John,OU=Users,OU=GS,DC=Boardwalk,DC=corp",
       "sAMAccountName": "Test2",
